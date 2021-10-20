@@ -51,7 +51,7 @@
             <div  style="width: 90%; float:left; margin-inline-end:20px; margin-bottom: -25px; text-align:left; margin-left: 30px;"><i>1st street pilikalpalayam </i></div>
             <hr style="width: 80%; float:left; margin-inline-end:20px ; margin-top:30px;">
             <div style="width: 90%; float:left; margin-inline-end:20px; margin-top: -15px;">Address</div>
-             <div style="width:30%; float:left; margin-inline-end:15px ; margin-bottom:-20px; text-align:center"><i>salem</i></div>
+             <div style="width:30%; float:left; margin-inline-end:15px ; margin-bottom:-20px; text-align:center"><i>Namakkal</i></div>
              <div style="width:30%; float:left; margin-inline-end:15px ; margin-bottom:-20px;text-align:center"><i>tamilnadu</i></div>
              <div style="width:30%; float:left; margin-inline-end:15px ; margin-bottom:-20px; text-align:center"><i>637213</i></div>
             <hr style="width:30%; float:left; margin-inline-end:15px ; margin-top:25px;">
@@ -66,9 +66,9 @@
             <div style="width:30%; float:left; margin-inline-end:15px ; margin-top:15px;">
                 <input type="checkbox" >2year($35.00)</div>
                 <div style="width:100%; float:left; margin-inline-end:15px ; margin-top:15px;">sent me more information about</div>
-                <div style="width:100%; float:left; margin-inline-end:15px ; margin-top:15px;"><input type="checkbox" >computer-zine</div>
-                <div style="width:100%; float:left; ; margin-top:15px; margin:right 100px; text-align:left"><input type="checkbox" >Fishing-zine</div>
-                <div style="width:100%; float:left;  ; margin-top:15px;"><input type="checkbox" >cat-0-zine</div></div>
+                <div style="width:100%; float:left; margin-inline-end:15px ; margin-top:15px;"><input type="checkbox" >&nbsp;computer-zine</div>
+                <div style="width:100%; float:left; ; margin-top:15px; margin:right 100px; text-align:left"><input type="checkbox" >&nbsp;Fishing-zine</div>
+                <div style="width:100%; float:left;  ; margin-top:15px;"><input type="checkbox" >&nbsp;cat-0-zine</div></div>
                
              </div>
 
